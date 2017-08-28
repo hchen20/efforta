@@ -15,16 +15,16 @@ ADDED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hang Chen\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hang Chen\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hang Chen\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hang Chen\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Hang Chen\.android\build-cache\1b7ddf6eae49781c8283f67998d85994ee0b5365\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\workspace\Games\Efforta\user.home\.android\build-cache\1b7ddf6eae49781c8283f67998d85994ee0b5365\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -53,18 +53,18 @@ ADDED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml:16:17-77
 		ADDED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hang Chen\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hang Chen\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hang Chen\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hang Chen\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Hang Chen\.android\build-cache\1b7ddf6eae49781c8283f67998d85994ee0b5365\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\workspace\Games\Efforta\user.home\.android\build-cache\1b7ddf6eae49781c8283f67998d85994ee0b5365\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml
 		INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml
@@ -72,16 +72,16 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Us
 		INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml
 		INJECTED from C:\workspace\Games\Efforta\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hang Chen\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hang Chen\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hang Chen\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hang Chen\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hang Chen\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hang Chen\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\19445a864c8a2faaed2755bfcd232702a1357f34\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\d9db0c8cfd32766596e2f620da31799b01e55e6f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\32884c2e7318293ef411a0856a8234a40c0e1abf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\a203f9abbe53956102c475a09436eb98527f41e5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\4b054f194f264f96c2e6475b13f56f28db851d8e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\439b8c1c14f7b1596881fecc3bcb79275fee7f42\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\3e4b3af26c0bd8b71300ee419fbf69bd9b9a3062\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\0e4f07a213b870c8e97b16d6abe83281e3631b93\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hang Chen\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\workspace\Games\Efforta\user.home\.android\build-cache\ce10da4f74e333d20405ba975becc111970363e4\output\AndroidManifest.xml:26:9-47

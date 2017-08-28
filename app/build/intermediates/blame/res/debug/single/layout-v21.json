@@ -1,18 +1,18 @@
 [
     {
         "merged": "C:\\workspace\\Games\\Efforta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Hang Chen\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\workspace\\Games\\Efforta\\user.home\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\workspace\\Games\\Efforta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Hang Chen\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\workspace\\Games\\Efforta\\user.home\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\workspace\\Games\\Efforta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Hang Chen\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\workspace\\Games\\Efforta\\user.home\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\workspace\\Games\\Efforta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Hang Chen\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\workspace\\Games\\Efforta\\user.home\\.android\\build-cache\\ce10da4f74e333d20405ba975becc111970363e4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]
